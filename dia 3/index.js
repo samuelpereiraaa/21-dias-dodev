@@ -12,4 +12,4 @@ let imc = usuarioPeso / (usuarioAltura * usuarioAltura);
 
 // Imprimir no console as informações obtidas com as entradas de dados e os calculos.
 
-console.log("Olá " + usuarioNome + ", você tem " + usuarioIdade + "anos, nasceu em " + nascimento + ",tem " + usuarioAltura + ",pesa " + usuarioPeso + "kg seu IMC é\n " + imc + "Kg/m2." );
+console.log("Olá " + usuarioNome + ", você tem " + usuarioIdade + " anos, nasceu em " + nascimento + ",tem " + usuarioAltura + ", pesa " + usuarioPeso + " kg seu IMC é\n " + imc + " Kg/m2." );
