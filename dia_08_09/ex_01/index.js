@@ -109,8 +109,8 @@ for( let i=0 ; anoQueNasceu < 2023 ; i++) {
 }
     
     }else if (continuar === 'não'){
-        break
+        
     }
     
-
+    
 }while(continuar === 'sim')
