@@ -31,7 +31,7 @@ console.log('Carros ordenados.')
 for(let i = 0; i < arrayModelo.length ; i++) {
     console.log(arrayModelo[i] + '- ' + arrayAno[i]+ '- ' + 'Valor: ' + arrayValor[i])
 }
-// Ordenar preço
+// Ordenar preço --- Algoritimo de ordenação
 for (let i = 0; i < arrayValor.length - 1 ; i++){
     for (let j = 0; j < arrayValor.length - i - 1; j++){
         if (arrayValor[j] > arrayValor[ j+1 ]) {
