@@ -74,4 +74,3 @@ let alternativa = parseInt(prompt('Oque deseja fazer: 1 - cadastrar. / 2 - fazer
         break  
 }
 }
-
